@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <documentTitle>ServiceNow Automation</documentTitle>
+        <reportName>ServiceNow Automation Result</reportName>
+        <testViewChartLocation>bottom</testViewChartLocation>
+    </configuration>
+</extentreports>
