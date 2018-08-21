@@ -26,6 +26,7 @@ public class LoginPageActions {
 		
 		LandingPageObjects objLanding = new LandingPageObjects(driver);
 		try {
+			Thread.sleep(2000);
 			wait.until(ExpectedConditions.visibilityOf(objLanding.MenuItem("Home"))).click();
 			wait.until(ExpectedConditions.visibilityOf(objLanding.LoginType("login"))).isDisplayed();
 			return true;
