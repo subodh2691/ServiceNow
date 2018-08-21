@@ -16,7 +16,7 @@ Using CLI:
 
 1. Clone or download the repository
 2. Go to Directory where you cloned the project.
-3. Run mvn clean test
+3. Run mvn clean verify
 
 Test report can be found at : https://github.com/subodh2691/ServiceNow/blob/master/test-output/ServiceNowAutomation.html
 
